@@ -1,2 +1,3 @@
-# my-app
-readme
+check for changes 
+poll for changes 
+`date`
